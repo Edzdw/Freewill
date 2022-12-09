@@ -479,6 +479,8 @@ textarea.placeholder {
   padding-top: 1.2em;
 }
 
+
+
 .widget_calendar #next {
   text-align: right;
 }
@@ -1419,6 +1421,11 @@ a.btn.btn-info {
 /*------------------------------------------------------------------
 16. Features List / .features-list
 -------------------------------------------------------------------*/
+
+li.outsider {
+  float: right;
+}
+
 .features-list {
   font-size: 14px;
   line-height: 24px;
@@ -1794,6 +1801,10 @@ a.btn.btn-info {
 /*------------------------------------------------------------------
 23. Price Offers / .price-offers
 -------------------------------------------------------------------*/
+section.container.price-offers {
+  display: none;
+}
+
 .price-offers {
   padding-top: 35px;
   position: relative;
