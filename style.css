@@ -1287,7 +1287,7 @@ a.btn.btn-info {
   font: 300 17px/35px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: block;
   margin: 0 0 16px;
-  text-transform: lowercase;
+  text-transform: initial;
 }
 
 .hero-area h1 .clr {
@@ -1803,7 +1803,7 @@ li.outsider {
 -------------------------------------------------------------------*/
 section.container.price-offers {
   display: none;
-}
+} 
 
 .price-offers {
   padding-top: 35px;
