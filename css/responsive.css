@@ -56,6 +56,9 @@
     margin: -35px -249px 0 0; } }
 
 @media (min-width: 768px) {
+  li.outsider {
+    margin-left: -24%;
+  }
   .mar-tmd {
     margin-top: 60px !important; }
   .mar-lmd {
@@ -295,8 +298,13 @@
       margin: 0 0 42px; }
   .brands-area {
     padding-top: 55px; } }
+  
 
 @media (min-width: 1230px) {
+
+  li.outsider {
+    margin-right: 11%;
+  }
   .navbar-default .navbar-nav > li {
     margin: 0 0 0 26px; }
   .hero-area h1 {
